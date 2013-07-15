@@ -1,0 +1,27 @@
+﻿<Kunder>
+  <Kunde>
+    <ID>
+    </ID>
+    <Navn>
+    </Navn>
+    <Adresse></Adresse>
+    <PostBy></PostBy>
+    <Tlf></Tlf>
+    <Computer>
+    </Computer>
+    <Email>
+    </Email>
+    <Tekst></Tekst>
+  </Kunde>
+  <Kunde>
+    <ID>2</ID>
+    <Navn>Nr 2 - Test</Navn>
+    <Adresse></Adresse>
+    <PostBy></PostBy>
+    <Tlf></Tlf>
+    <Computer></Computer>
+    <Email>
+    </Email>
+    <Tekst></Tekst>
+  </Kunde>
+</Kunder>
